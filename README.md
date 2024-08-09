@@ -1,14 +1,12 @@
 [S-#] TITLE (Root Cause + Impact) Description:
 
-Issue type: Access Control call/delegatecall Context Decimal DoS en/de-code ERC20 ERC4626 ERC721 Error ETH-Transfer Governance GOX Invalid Validation Library Loop Math MEV Oracle Other Payable Reentrancy Rug-Pull Solmate Timing Token-Transfer Under/Overflow Uniswap Upgradable
+## Impact
+Detailed description of the impact of this finding.
 
-Links to affected code:\
+## Proof of Concept
+Provide direct links to all referenced code in GitHub. Add screenshots, logs, or any other relevant proof that illustrates the concept.
 
-Impact
+## Tools Used
+Manual Review
 
-Proof of Concept
-
-Tools Used
-- Manual Review
-
-Recommended Mitigation Steps
+## Recommended Mitigation Steps
